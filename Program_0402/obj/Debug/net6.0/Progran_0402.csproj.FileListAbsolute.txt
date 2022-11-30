@@ -1,0 +1,15 @@
+C:\Users\АДМИН\Desktop\HomeWork\Progran_0402\bin\Debug\net6.0\Progran_0402.exe
+C:\Users\АДМИН\Desktop\HomeWork\Progran_0402\bin\Debug\net6.0\Progran_0402.deps.json
+C:\Users\АДМИН\Desktop\HomeWork\Progran_0402\bin\Debug\net6.0\Progran_0402.runtimeconfig.json
+C:\Users\АДМИН\Desktop\HomeWork\Progran_0402\bin\Debug\net6.0\Progran_0402.dll
+C:\Users\АДМИН\Desktop\HomeWork\Progran_0402\bin\Debug\net6.0\Progran_0402.pdb
+C:\Users\АДМИН\Desktop\HomeWork\Progran_0402\obj\Debug\net6.0\Progran_0402.csproj.AssemblyReference.cache
+C:\Users\АДМИН\Desktop\HomeWork\Progran_0402\obj\Debug\net6.0\Progran_0402.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АДМИН\Desktop\HomeWork\Progran_0402\obj\Debug\net6.0\Progran_0402.AssemblyInfoInputs.cache
+C:\Users\АДМИН\Desktop\HomeWork\Progran_0402\obj\Debug\net6.0\Progran_0402.AssemblyInfo.cs
+C:\Users\АДМИН\Desktop\HomeWork\Progran_0402\obj\Debug\net6.0\Progran_0402.csproj.CoreCompileInputs.cache
+C:\Users\АДМИН\Desktop\HomeWork\Progran_0402\obj\Debug\net6.0\Progran_0402.dll
+C:\Users\АДМИН\Desktop\HomeWork\Progran_0402\obj\Debug\net6.0\refint\Progran_0402.dll
+C:\Users\АДМИН\Desktop\HomeWork\Progran_0402\obj\Debug\net6.0\Progran_0402.pdb
+C:\Users\АДМИН\Desktop\HomeWork\Progran_0402\obj\Debug\net6.0\Progran_0402.genruntimeconfig.cache
+C:\Users\АДМИН\Desktop\HomeWork\Progran_0402\obj\Debug\net6.0\ref\Progran_0402.dll
