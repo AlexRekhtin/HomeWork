@@ -1,0 +1,15 @@
+C:\Users\АДМИН\Desktop\HomeWork\Program_0401\bin\Debug\net6.0\Program_0401.exe
+C:\Users\АДМИН\Desktop\HomeWork\Program_0401\bin\Debug\net6.0\Program_0401.deps.json
+C:\Users\АДМИН\Desktop\HomeWork\Program_0401\bin\Debug\net6.0\Program_0401.runtimeconfig.json
+C:\Users\АДМИН\Desktop\HomeWork\Program_0401\bin\Debug\net6.0\Program_0401.dll
+C:\Users\АДМИН\Desktop\HomeWork\Program_0401\bin\Debug\net6.0\Program_0401.pdb
+C:\Users\АДМИН\Desktop\HomeWork\Program_0401\obj\Debug\net6.0\Program_0401.csproj.AssemblyReference.cache
+C:\Users\АДМИН\Desktop\HomeWork\Program_0401\obj\Debug\net6.0\Program_0401.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АДМИН\Desktop\HomeWork\Program_0401\obj\Debug\net6.0\Program_0401.AssemblyInfoInputs.cache
+C:\Users\АДМИН\Desktop\HomeWork\Program_0401\obj\Debug\net6.0\Program_0401.AssemblyInfo.cs
+C:\Users\АДМИН\Desktop\HomeWork\Program_0401\obj\Debug\net6.0\Program_0401.csproj.CoreCompileInputs.cache
+C:\Users\АДМИН\Desktop\HomeWork\Program_0401\obj\Debug\net6.0\Program_0401.dll
+C:\Users\АДМИН\Desktop\HomeWork\Program_0401\obj\Debug\net6.0\refint\Program_0401.dll
+C:\Users\АДМИН\Desktop\HomeWork\Program_0401\obj\Debug\net6.0\Program_0401.pdb
+C:\Users\АДМИН\Desktop\HomeWork\Program_0401\obj\Debug\net6.0\Program_0401.genruntimeconfig.cache
+C:\Users\АДМИН\Desktop\HomeWork\Program_0401\obj\Debug\net6.0\ref\Program_0401.dll
